@@ -7,6 +7,14 @@
 **Facilitator:** Nathan Duncan  
 **Note-taker:** Nathan Duncan 
 
+# Example Table
+
+| Name | Role | Status |
+|------|------|--------|
+| Nathan | Developer | 🟢 Active |
+| Yash | Supervisor | 🟡 Reviewing |
+
+
 ---
 
 ## 🧭 Agenda
