@@ -55,23 +55,18 @@
 
 3. Push updates to remote
 
-- **Decisions Made:**  
-  - [Decision]
  ---
 #### MPU6050
 - **Summary:**  
-  [Brief summary]
-- **Decisions Made:**  
-  - [Decision]
+  Follow the [ESP32 and MPU6050 Tutorial](https://www.instructables.com/How-to-Connect-MPU6050-to-ESP32-Physical-Setup-and/).
 
 ---
 
 ## 📅 Next Steps
-- [ ] [Action item 1]
-- [ ] [Action item 2]
+- [ ] Action item 1
 - **Next Meeting:** TBD (After reading week)
 
 ---
 
 ## 📝 Additional Notes
-[Anything else worth noting]
+
