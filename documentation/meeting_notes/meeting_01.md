@@ -7,12 +7,7 @@
 **Facilitator:** Nathan Duncan  
 **Note-taker:** Nathan Duncan 
 
-# Example Table
 
-| Name | Role | Status |
-|------|------|--------|
-| Nathan | Developer | 🟢 Active |
-| Yash | Supervisor | 🟡 Reviewing |
 
 
 ---
@@ -50,11 +45,13 @@
 - **Instructions:**  
     - Clone the QBMET repo (https://github.com/nathanDuncan/qbmet-software)
     - Add your contact info here
-| Name | email | github | interests |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
+##### Contact Table
+| Name | Year | Program | Email | Interest |
+|------|------|---------|-------|----------|
+| x | x | x | x | x |
+| x | x | x | x | x |
+
     - Push updates to remote
 - **Decisions Made:**  
   - [Decision]
