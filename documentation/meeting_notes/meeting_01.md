@@ -43,16 +43,16 @@
 ### 3. Tasks
 #### Git and Contacts
 - **Instructions:**  
-    - Clone the QBMET repo (https://github.com/nathanDuncan/qbmet-software)
-    - Add your contact info here
-
+1. Clone the QBMET repo (https://github.com/nathanDuncan/qbmet-software)  
+2. Add your contact info Below  
 ##### Contact Table
 | Name | Year | Program | Email | Interest |
 |------|------|---------|-------|----------|
 | x | x | x | x | x |
 | x | x | x | x | x |
 
-    - Push updates to remote
+3. Push updates to remote
+
 - **Decisions Made:**  
   - [Decision]
  ---
