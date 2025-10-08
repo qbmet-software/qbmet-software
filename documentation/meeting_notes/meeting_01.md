@@ -50,6 +50,14 @@
 |------|------|---------|-------|----------|
 | x | x | x | x | x |
 | x | x | x | x | x |
+| x | x | x | x | x |
+| x | x | x | x | x |
+| x | x | x | x | x |
+| x | x | x | x | x |
+| x | x | x | x | x |
+| x | x | x | x | x |
+| x | x | x | x | x |
+| x | x | x | x | x |
 
 3. Push updates to remote
 
