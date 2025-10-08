@@ -56,7 +56,7 @@
 3. Push updates to remote
 
  ---
-#### MPU6050
+### MPU6050
 - **Summary:**  
   Follow the [ESP32 and MPU6050 Tutorial](https://www.instructables.com/How-to-Connect-MPU6050-to-ESP32-Physical-Setup-and/).
 
