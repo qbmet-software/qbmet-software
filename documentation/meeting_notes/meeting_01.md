@@ -19,33 +19,27 @@
 
 ---
 
-## 🗣️ Discussion Summary
-
-### 1. Introductions
+## 1. Introductions
 - **Summary:**  
-  [Brief summary of the discussion]
-- **Decisions Made:**  
-  - [Decision 1]
-  - [Decision 2]
-- **Action Items:**  
-  - [ ] [Person] to [action] by [due date]
 
 ---
 
-### 2. Brainstorm
+## 2. Brainstorm
 - **Summary:**  
-  [Brief summary]
+
 - **Decisions Made:**  
-  - [Decision]
 
 ---
 
-### 3. Tasks
-#### Git and Contacts
+## 3. Tasks
+### Git and Contacts
 - **Instructions:**  
-1. Clone the QBMET repo (https://github.com/nathanDuncan/qbmet-software)  
+1. Clone the QBMET repo
+   
+    git clone https://github.com/nathanDuncan/qbmet-software  
+
 2. Add your contact info Below  
-##### Contact Table
+#### Contact Table
 | Name | Year | Program | Email | Interest |
 |------|------|---------|-------|----------|
 | x | x | x | x | x |
