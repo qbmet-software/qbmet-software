@@ -36,7 +36,7 @@
 - **Instructions:**  
 1. Clone the QBMET repo
    
-    git clone https://github.com/nathanDuncan/qbmet-software  
+         git clone https://github.com/nathanDuncan/qbmet-software  
 
 2. Add your contact info Below  
 #### Contact Table
