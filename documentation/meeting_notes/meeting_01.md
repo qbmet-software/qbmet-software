@@ -46,7 +46,7 @@ Physical/manual control
 | Victor | 3 | Comp Eng | victor.chowdhury@queensu.ca | All |
 | Aahash | x | x | x | x |
 | Alex | 5 | Computer Engineering | 20aj46@queensu.ca | Work with sensors |
-| Colin | 5th | Comp | colin.grover@queensu.ca | Everything |
+| Colin | 5th | Comp | colin.grover@queensu.ca | Everything | 
 | x | x | x | x | x |
 | x | x | x | x | x |
 | x | x | x | x | x |
