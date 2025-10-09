@@ -45,7 +45,7 @@ Physical/manual control
 | Francesca | x | x | x | x |
 | Victor | x | x | x | x |
 | Aahash | x | x | x | x |
-| Alex | x | x | x | x |
+| Alex | 5 | Computer Engineering | 20aj46@queensu.ca | Work with sensors |
 | Colin | x | x | x | x |
 | x | x | x | x | x |
 | x | x | x | x | x |
