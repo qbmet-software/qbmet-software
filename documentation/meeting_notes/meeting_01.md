@@ -40,13 +40,13 @@ Physical/manual control
 #### Contact Table
 | Name | Year | Program | Email | Interest |
 |------|------|---------|-------|----------|
-| Nathan | x | x | x | x |
+| Nathan | 5th | MREN | 20ntd1@queensu.ca | everything |
 | Zephra | 3 | Apple-Comp | 22gbh3@queensu.ca | everything |
 | Francesca | 3 | Comp Eng | 22kxpt@queensu.ca | everything (maybe more of control) |
 | Victor | x | x | x | x |
 | Aahash | x | x | x | x |
-| Alex | x | x | x | x |
-| Colin | x | x | x | x |
+| Alex | 5 | Computer Engineering | 20aj46@queensu.ca | Work with sensors |
+| Colin | 5th | Comp | colin.grover@queensu.ca | Everything |
 | x | x | x | x | x |
 | x | x | x | x | x |
 | x | x | x | x | x |
