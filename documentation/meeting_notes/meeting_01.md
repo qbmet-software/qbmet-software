@@ -7,9 +7,6 @@
 **Facilitator:** Nathan Duncan  
 **Note-taker:** Nathan Duncan 
 
-
-
-
 ---
 
 ## 🧭 Agenda
@@ -26,7 +23,8 @@
 
 ## 2. Brainstorm
 - **Summary:**  
-
+Reading what you want to do
+Physical/manual control
 - **Decisions Made:**  
 
 ---
@@ -42,13 +40,13 @@
 #### Contact Table
 | Name | Year | Program | Email | Interest |
 |------|------|---------|-------|----------|
-| x | x | x | x | x |
-| x | x | x | x | x |
-| x | x | x | x | x |
-| x | x | x | x | x |
-| x | x | x | x | x |
-| x | x | x | x | x |
-| x | x | x | x | x |
+| Nathan | x | x | x | x |
+| Zephra | x | x | x | x |
+| Francesca | x | x | x | x |
+| Victor | x | x | x | x |
+| Aahash | x | x | x | x |
+| Alex | x | x | x | x |
+| Colin | x | x | x | x |
 | x | x | x | x | x |
 | x | x | x | x | x |
 | x | x | x | x | x |
