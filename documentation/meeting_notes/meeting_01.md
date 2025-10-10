@@ -40,7 +40,7 @@ Physical/manual control
 #### Contact Table
 | Name | Year | Program | Email | Interest |
 |------|------|---------|-------|----------|
-| Nathan | x | x | x | x |
+| Nathan | 5th | MREN | 20ntd1@queensu.ca | Everything |
 | Zephra | x | x | x | x |
 | Francesca | x | x | x | x |
 | Victor | x | x | x | x |
