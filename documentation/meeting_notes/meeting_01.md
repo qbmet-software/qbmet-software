@@ -42,7 +42,7 @@ Physical/manual control
 |------|------|---------|-------|----------|
 | Nathan | 5th | MREN | 20ntd1@queensu.ca | everything |
 | Zephra | 3 | Apple-Comp | 22gbh3@queensu.ca | everything |
-| Francesca | 3 | Comp Eng | 22kxpt@queensu.ca | everything (maybe more of control) |
+| Francesca | 3 | Comp Eng | 22kxpt@queensu.ca | everything - (maybe more of control) |
 | Victor | 3 | Comp Eng | victor.chowdhury@queensu.ca | All |
 | Aahash | 5th | Comp Eng | 20as210@queensu.ca | everything |
 | Alex | 5 | Computer Engineering | 20aj46@queensu.ca | Work with sensors |
