@@ -18,14 +18,39 @@
 
 ## 1. Introductions
 - **Summary:**  
+A lot of people are new to the team this year, so we're gonna spend a lot of time familiarizing ourselves with last years code. 
 
 ---
 
 ## 2. Brainstorm
-- **Summary:**  
-Reading what you want to do
-Physical/manual control
-- **Decisions Made:**  
+**What does an exoskeleton do?**
+Reduces energy expenditure 
+Amplifies actions
+
+**How do we control an exoskeleton?**
+Match motor torque to assist an angular acceleration
+Match motor torque to assist a muscle activation
+Set positions of low exertion
+
+**What features do we want?**
+- Control
+  - PID
+  - Predictive
+
+- Sensing
+  - Accelerometer
+  - Encoders
+  - Pressure sensors 
+  - EMG
+
+- Interfacing
+  - CAN
+  - IC^2 + multiplexing
+  - Arduino
+- User – System
+  - Wireless
+  - Physical/manual control
+
 
 ---
 
@@ -58,13 +83,14 @@ Physical/manual control
 - **Summary:**  
   Follow the [ESP32 and MPU6050 Tutorial](https://www.instructables.com/How-to-Connect-MPU6050-to-ESP32-Physical-Setup-and/).
 
+**Note:** We didn't get this far this meeting.
 ---
 
 ## 📅 Next Steps
-- [ ] Action item 1
-- **Next Meeting:** TBD (After reading week)
+- [ ] when2meet form
+- [ ] familiarize yourselves with the repo
+
+- **Next Meeting:** MPU6050 and Repo readings
 
 ---
-
-## 📝 Additional Notes
 
