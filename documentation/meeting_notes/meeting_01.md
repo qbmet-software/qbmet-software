@@ -72,7 +72,7 @@ Set positions of low exertion
 | Aahash | 5th | Comp Eng | 20as210@queensu.ca | everything |
 | Alex | 5 | Computer Engineering | 20aj46@queensu.ca | Work with sensors |
 | Colin | 5th | Comp | colin.grover@queensu.ca | Everything | 
-| x | x | x | x | x |
+| Mohammed | 2nd | Mechanical | 23nv59@queensu.ca | Everything |
 | x | x | x | x | x |
 | x | x | x | x | x |
 
