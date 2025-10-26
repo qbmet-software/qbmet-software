@@ -18,13 +18,18 @@
 
 ## 1. Introductions
 - **Summary:**  
-Pet ice breaker
+Pet ice breaker: if you could have any pet what would it be. 
+Lots of variety in answers.
 
 ---
 
 ## 2. MPU Tutorial
 - **Summary:**  
   Follow the [ESP32 and MPU6050 Tutorial](https://www.instructables.com/How-to-Connect-MPU6050-to-ESP32-Physical-Setup-and/).
+
+Some issues with installing libraries, others with running the code.
+Note: Select the ESP32 Dev Module for the board
+ - Double check the wiring diagram in the tutorial
 
 ---
 
@@ -36,7 +41,7 @@ Over the next week pick a file on the repo (ideally in suit-code) and make a mar
 ## 📅 Next Steps
 - [ ] Document a file on repo
 
-- **Next Meeting:** TBD, full system operation
+- **Next Meeting:** TBD, full system operation, subteams
 
 ---
 
