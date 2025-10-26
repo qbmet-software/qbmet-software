@@ -73,8 +73,9 @@ Set positions of low exertion
 | Alex | 5 | Computer Engineering | 20aj46@queensu.ca | Work with sensors |
 | Colin | 5th | Comp | colin.grover@queensu.ca | Everything | 
 | Mohammed | 2nd | Mechanical | 23nv59@queensu.ca | Everything |
-| x | x | x | x | x |
-| x | x | x | x | x |
+| Réna | 4th | Computer Science | 21rsh8@queensu.ca | Everything |
+| Ian | 5 | Apple Comp | 20ijwm@queensu.ca | Everything |
+| Siera | 1 | MREN | 24xkp1@queensu.ca | everything | 
 
 3. Push updates to remote
 
