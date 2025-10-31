@@ -26,19 +26,30 @@
 ## 2. Team Breakdown
 
 ### Sensors and Simulation
-**Team Lead:** (Victor?)
+**Team Lead:** (Victor)
 #### Positions:
-- **Master Modeler:** Using sensor information, 
+- **Master Modeler:** Look at visualize_body_angle (Rena, Collin)
 - **Sensor Superior:**
-- **ESP Einstein:**
+look at mpu_data_collection_mux (Alex, Nathan)
+- **Sensor adder** (Zephra)
+look at new sensors, Our suit simply assistive motion to the user (and gravity compensation near
+the end) but the purpose of the ACE competition is to assist firefighters
+carrying heavy loads. To perform this task, the total weight of the user must
+be calculated and this requires measuring the pressure at the users feet.
+- **ESP Einstein:** (Aahash)
+look into how we can utilize wireless capabilities of the ESP 32
 
 ### Actuation and Control
-**Team Lead:** (Victor?)
+**Team Lead:** (Mohammed)
 #### Positions:
-- **Captain Control:**
+- **Captain Control (PID):**  (Francesca, Ian)
+look at motor_control
+- **Control Researcher** (Siera)
+look at methods for controlling other than pid
 - **CAN Commander:**
+Look at can_test
 - **Safety Supervisor:**
-
+look at motor-control
 
 
 ---
