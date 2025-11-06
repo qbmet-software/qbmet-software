@@ -20,9 +20,39 @@
 What is your favourite book/movie?
 
 ---
-## 2. Software Sub-Team Structure: Lower-Body Exoskeleton
+## 2. Projects
+### Digital Twin Project
+Validate state estimation by creating a digital twin of the lower body exoskeleton. Create a double pendulum model per set of legs and have the pendulum angles be interpreted from MPU readings.  
+(I recommend starting with a single pendulum and single mpu)  
+First challenge is getting ESP data into somewhere you can model
 
-### 1. Project Management & Leadership
+### Rerun Project
+Assuming all hardware issues have been fixed. Try running last years suit code on the actual suit. Note the code on the repo we all are on only targets one motor currently. Make note of any bugs or hardware failures you find.
+
+### Sensor Expansion Project
+Research addional methods to improve performance of the exoskeleton and our state estimation. 
+Look at FSRs, EEG, EMG, etc. 
+
+If you feel anything is promising, justify why and give me a model you recommend.
+
+### Wireless Project
+Explore wireless connection possibilities.
+- Try sending strings from an ESP to your PC (say just counting 1, 2, ...)
+- Try adding sensor measurements
+- Try sending data from your PC to the ESP
+- Try sending commands from your PC to the ESP
+
+### PID Project
+Design a simple PID controller to move the motors to different set points. 
+- Start with hard coded position setpoints
+- Velocity set points?
+- Time-varying setpoints?
+- User controlled?
+
+
+---
+## 3. Project Assignment
+### Project Management & Leadership
 
 | Role | Member | Primary Responsibility |
 | :--- | :--- | :--- |
@@ -37,12 +67,17 @@ What is your favourite book/movie?
 **Team Lead:** **Victor**  
 **Objective:** Accurately acquire and process all user and environmental data, and provide robust, validated data models for the control system.
 
-| Role | Member(s) | Focus Area(s) | Core Deliverables |
-| :--- | :--- | :--- | :--- |
-| **Modelers** | **Rena**, **Colin** | Simulation and Validation, Digital twin. | Development and expansion of the `visualize_body_angle` code and data validation models. |
-| **Sensor Data Engineer** | **Alex**, **Nathan** | Data Acquisition and Filtering, Sensor Interfacing. | Robust data streams from existing sensors; managing `mpu_data_collection_mux` and ensuring data quality. |
-| **Pressure Sensing Specialist** | **Zephra** | New Sensor Integration (Weight/Load Calculation). | Integrate and calibrate foot pressure sensors to calculate the total user load for the ACE competition objective. |
-| **Connectivity & Edge Compute** | **Aahash** | Wireless Communication, Data Logging. | Utilizing **ESP32** for external communication (Wi-Fi/Bluetooth) and on-board data logging/debugging. |
+| Member | Project(s) |
+| :--- | :--- |
+| **Rena** | Digital Twin Project |
+| **Colin** | Digital Twin Project |
+| **Alex** | Rerun Project, Sensor Expansion Project |
+| **Nathan** | Rerun Project, Sensor Expansion Project |
+| **Zephra** | Rerun Project, Sensor Expansion Project |
+| **Aahash** | Wireless Project |
+| **Francesca** | PID Project |
+| **Ian** | PID Project |
+| **Siera** | PID Project |
 
 ---
 
