@@ -42,7 +42,7 @@ Halloween Costumes!
 
 | Role | Member(s) | Focus Area(s) | Core Deliverables |
 | :--- | :--- | :--- | :--- |
-| **Modelers** | **Rena**, **Collin** | Simulation and Validation, Digital twin. | Development and expansion of the `visualize_body_angle` code and data validation models. |
+| **Modelers** | **Rena**, **Colin** | Simulation and Validation, Digital twin. | Development and expansion of the `visualize_body_angle` code and data validation models. |
 | **Sensor Data Engineer** | **Alex**, **Nathan** | Data Acquisition and Filtering, Sensor Interfacing. | Robust data streams from existing sensors; managing `mpu_data_collection_mux` and ensuring data quality. |
 | **Pressure Sensing Specialist** | **Zephra** | New Sensor Integration (Weight/Load Calculation). | Integrate and calibrate foot pressure sensors to calculate the total user load for the ACE competition objective. |
 | **Connectivity & Edge Compute** | **Aahash** | Wireless Communication, Data Logging. | Utilizing **ESP32** for external communication (Wi-Fi/Bluetooth) and on-board data logging/debugging. |
