@@ -22,9 +22,11 @@ void setup() {
 
 void loop() {
   canHandler.update();
+  Serial.print("Reading Motors...");
 
   for (uint8_t motorID = 1; motorID <= 4; motorID++) {
-    if (canHandler.getIsOnline(motorID)) {
+//    if (canHandler.getIsOnline(motorID)) {
+  if(1) {
       CANMessage msg = canHandler.getLatestFrame(motorID - 1);
 
       Serial.print("Motor ");

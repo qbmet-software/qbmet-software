@@ -21,6 +21,7 @@ What is the weirdest thing you've ever eaten?
 
 ---
 ## 2. Work on Projects
+Today we worked on two of our projects. Colin and Alex were cooking on the digital twin
 ### Digital Twin Project
 Validate state estimation by creating a digital twin of the lower body exoskeleton. Create a double pendulum model per set of legs and have the pendulum angles be interpreted from MPU readings.  
 (Can you do two MPUs?)  
@@ -29,26 +30,6 @@ Validate state estimation by creating a digital twin of the lower body exoskelet
 ### Rerun Project
 Assuming all hardware issues have been fixed. Try running last years suit code on the actual suit. Note the code on the repo we all are on only targets one motor currently. Make note of any bugs or hardware failures you find.
 Will it work?
-
-### Sensor Expansion Project
-Research addional methods to improve performance of the exoskeleton and our state estimation. 
-Look at FSRs, EEG, EMG, etc. 
-
-If you feel anything is promising, justify why and give me a model you recommend.
-
-### Wireless Project
-Explore wireless connection possibilities.
-- Try sending strings from an ESP to your PC (say just counting 1, 2, ...)
-- Try adding sensor measurements
-- Try sending data from your PC to the ESP
-- Try sending commands from your PC to the ESP
-
-### PID Project
-Design a simple PID controller to move the motors to different set points. 
-- Start with hard coded position setpoints
-- Velocity set points?
-- Time-varying setpoints?
-- User controlled?
 
 ---
 ## 3. Project Assignment
