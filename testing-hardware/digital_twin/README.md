@@ -22,7 +22,9 @@ If they aren't already installed, you'll need the Adafruit MPU-6050 Arduino libr
 
 From there, wire the MPU-6050 to your ESP-32, then compile & upload the code to the microcontroller.
 
-Now, in the Processing IDE (which can be downloaded from [processing.org](https://processing.org/)), go to File>Open and select `display/display.pde`. Then, just click run.
+If you don't have the Processing IDE installed, you can download it from [processing.org](https://processing.org/). You will also need its ToxicLibs libraries installed. They can be downloaded [here](https://github.com/postspectacular/toxiclibs/releases/tag/0021) and then extracted into the `libraries` directory of your Processing installation.
+
+Now, open the Processing IDE, go to File>Open, and select `display/display.pde`. Then, just click run.
 
 <img src="imgs/run_button.png" alt="arrow pointing to location of the run button (play button in top left of screen in Processing)" style="display: block; margin: auto;">
 
