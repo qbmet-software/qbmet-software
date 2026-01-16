@@ -1,7 +1,5 @@
-import processing.serial.*;
 import processing.opengl.*;
 import toxi.geom.*;
-import toxi.processing.*;
 
 final int BAUDRATE = 115200;
 final int DIM = 300; // Should match viewport width & height
@@ -14,15 +12,11 @@ final int BOX_LENGTH = 2*DIM/3;
 // 2. Extract into [userdir]/Processing/libraries
 //    (location may be different on Mac/Linux)
 // 3. Start/restart Processing
-
-ToxiclibsSupport gfx;
-
 Quaternion quat = new Quaternion(1, 0, 0, 0);
 
 void setup() {
   // Viewport using OpenGL rendering. Dims should match DIM (Processing doesn't let us uses variables here)
   size(300, 300, OPENGL);
-  gfx = new ToxiclibsSupport(this);
 
   // setup lights and antialiasing
   lights();
