@@ -39,31 +39,35 @@ void draw() {
     float[] axis = quat.toAxisAngle();
     rotate(axis[0], -axis[1], axis[3], axis[2]);
 
-    // Draw main body of MPU
-    fill(0, 0, 255, 200); // Translucent blue
-    box(BOX_WIDTH, BOX_HEIGHT, BOX_LENGTH);
-
-    // Draw main IC
-    fill(0, 0, 0, 200); // Translucent black
-    pushMatrix();
-      translate(0, -BOX_HEIGHT/2, BOX_LENGTH/10);
-      box(BOX_WIDTH/3, BOX_HEIGHT/2, BOX_WIDTH/3);
-    popMatrix();
-
-    // Draw yellow capacitor
-    fill(255, 204, 102, 200); // Translucent yellow/tan
-    pushMatrix();
-      translate(BOX_WIDTH/3, -BOX_HEIGHT/2, BOX_LENGTH/10);
-      box(BOX_WIDTH/9, BOX_HEIGHT, 5*BOX_WIDTH/18);
-    popMatrix();
-
-    // Draw some of silkscreen
-    pushMatrix();
-      rotateX(PI/2);
-      translate(-4*BOX_WIDTH/10, -BOX_LENGTH/2, BOX_HEIGHT/2+1);
-      fill(255, 255, 255, 200); // Translucent white
-      text("VCC GND SCL SDA XDA XCL ADO INT", 0, BOX_WIDTH/8, 3*BOX_WIDTH/8, BOX_LENGTH);
-    popMatrix();
+    drawMPU();
   
+  popMatrix();
+}
+
+void drawMPU() {
+  // Draw main body of MPU
+  fill(0, 0, 255, 200); // Translucent blue
+  box(BOX_WIDTH, BOX_HEIGHT, BOX_LENGTH);
+
+  // Draw main IC
+  fill(0, 0, 0, 200); // Translucent black
+  pushMatrix();
+    translate(0, -BOX_HEIGHT/2, BOX_LENGTH/10);
+    box(BOX_WIDTH/3, BOX_HEIGHT/2, BOX_WIDTH/3);
+  popMatrix();
+
+  // Draw yellow capacitor
+  fill(255, 204, 102, 200); // Translucent yellow/tan
+  pushMatrix();
+    translate(BOX_WIDTH/3, -BOX_HEIGHT/2, BOX_LENGTH/10);
+    box(BOX_WIDTH/9, BOX_HEIGHT, 5*BOX_WIDTH/18);
+  popMatrix();
+
+  // Draw some of silkscreen
+  pushMatrix();
+    rotateX(PI/2);
+    translate(-4*BOX_WIDTH/10, -BOX_LENGTH/2, BOX_HEIGHT/2+1);
+    fill(255, 255, 255, 200); // Translucent white
+    text("VCC GND SCL SDA XDA XCL ADO INT", 0, BOX_WIDTH/8, 3*BOX_WIDTH/8, BOX_LENGTH);
   popMatrix();
 }

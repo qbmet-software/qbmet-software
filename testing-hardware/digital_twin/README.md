@@ -11,7 +11,7 @@ As of Jan. 16, 2026, the position/orientation of a single MPU unit can be displa
 ## How to Use it
 First, open `printQuats/printQuats.ino`. You will see in that code that there's definitions for sensor biases near the top. It is recommended that these be customized. There's a print statement in there that you can uncomment to see what the unadjusted output values are to help you find good bias values.
 
-```.c
+```c
 // TODO: Update these as appropriate for your specific MPU
 #define BIAS_GYRO_X 0.026
 #define BIAS_GYRO_Y -0.034
