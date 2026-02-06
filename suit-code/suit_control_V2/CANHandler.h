@@ -1,3 +1,14 @@
+/**
+ * @file CANHandler.h
+ * @brief CAN bus interface and message handling for ESP32.
+ * 
+ * This header file defines the CANHandler class, which provides a lightweight wrapper
+ * around the ACAN_ESP32 library for easy CAN bus communication. It manages message
+ * transmission and reception, caches the latest frames from connected devices, and
+ * provides utility functions for monitoring device online status.
+ * 
+ */
+
 #ifndef CAN_HANDLER_H
 #define CAN_HANDLER_H
 

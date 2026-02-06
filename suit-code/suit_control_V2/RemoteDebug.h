@@ -1,3 +1,15 @@
+/**
+ * @file RemoteDebug.h
+ * @brief Serial-based debug output interface for ESP32 applications.
+ * 
+ * This header file defines the RemoteDebug class, which provides a simple and
+ * lightweight debugging utility for ESP32 systems. It enables formatted output
+ * over the serial interface with support for both line-based printing and printf-style
+ * formatted messages, facilitating remote monitoring and troubleshooting without
+ * requiring heavyweight remote debugging frameworks.
+ * 
+ */
+
 #ifndef REMOTE_DEBUG_H
 #define REMOTE_DEBUG_H
 
